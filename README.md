@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @Marcia12sdf
+# Install dependencies
+npm install
+
+# Project run
+npm run dev
+
+Open http://localhost:8080 to view it in the browser.
+
+# Project build
+npm run build- 👋 Hi, I’m @Marcia12sdf
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
